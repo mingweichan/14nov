@@ -70,8 +70,7 @@
     font-family:  "Roboto", sans-serif;
     font-weight: 400;
     margin:0 auto;
-    max-width: 1500px;
-    height: 5000px;
+    max-width: 960px;
     
    
 }
@@ -124,9 +123,7 @@
 
 .nav-butt {
     font-family:"Roboto", "Futura", sans-serif;
-    font-size: 11pt;
-    z-index: 9999;
-    
+    font-size: 9pt;
 }
 
 .container-fluid {
@@ -477,8 +474,11 @@ color: black;
     background-color: white;
 }
 
-@media screen and (max-width: 883px) {
-
+@media screen and (max-width: 800px) {
+    .nav-butt{
+        font-size:11px;   
+    
+    }
     .navbar-brand{
         color: #980000;
         text-align: center;
@@ -533,8 +533,4 @@ color: black;
 .carousel:hover > .carousel-inner > .joinbutton {
     background-color: rgba(0, 0, 0, 0.43);
     z-index: 99999;
-}
-
-.nav-butt:hover {
-    color:black;
 }
