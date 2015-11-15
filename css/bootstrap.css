@@ -4177,12 +4177,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand > img {
   display: block;
 }
-@media (min-width: 768px) {
 
-}
 .navbar-toggle {
   position: relative;
-    display: inline;
+  display: inline;
   float: right;
   padding: 8px 8px;
   margin-top: 5px;
@@ -6175,7 +6173,7 @@ button.close {
 .carousel-control .icon-prev,
 .carousel-control .glyphicon-chevron-left {
   left: 50%;
-  margin-left: -10px;
+  margin-left: -20px;
 }
 .carousel-control .icon-next,
 .carousel-control .glyphicon-chevron-right {
@@ -6247,8 +6245,8 @@ button.close {
   .carousel-control .icon-next {
     width: 30px;
     height: 30px;
-    margin-top: -15px;
-    font-size: 30px;
+    margin-top: -13px;
+    font-size: 15px;
   }
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .icon-prev {

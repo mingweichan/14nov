@@ -71,7 +71,7 @@
     font-weight: 400;
     margin:0 auto;
     max-width: 960px;
-    
+    height:5000px;
    
 }
 
@@ -277,7 +277,7 @@
 .joinbutton {
 
     background-color: black;
-    z-index: 99999;
+    z-index: 99;
     height: 100%;
     display: block;
     width: 100%;
@@ -311,7 +311,7 @@
     position: absolute;
     top:50%;
     transform: translateY(-30%);
-    z-index: 9999999;
+    z-index: 999;
     text-align: center;
     width: 100%;
     
@@ -532,5 +532,9 @@ color: black;
 
 .carousel:hover > .carousel-inner > .joinbutton {
     background-color: rgba(0, 0, 0, 0.43);
-    z-index: 99999;
+    z-index: 99;
+}
+
+.intro-textRK {
+    z-index: 9999;
 }
