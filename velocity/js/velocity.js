@@ -65,7 +65,6 @@ $(document).ready(function () {
 //    }
 //  });
 });
-<<<<<<< HEAD
 
 /**
  * Check a href for an anchor. If exists, and in document, scroll to it.
@@ -100,5 +99,3 @@ scroll_if_anchor(window.location.hash);
 
 // Intercept all anchor clicks
 $("body").on("click", "a", scroll_if_anchor);
-=======
->>>>>>> parent of e6a4af9... PLEASE
