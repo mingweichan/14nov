@@ -1,0 +1,60 @@
+{
+  "comments": [
+    {
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "rkim11@hotmail.com",
+      "authorID" : 17337479,
+      "code": 1,
+      "parentCode": null,
+      "content": "this is a test comment",
+      "timestamp": "1442235372621",
+      "date": "14-Sep-2015 22:56",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "rkim11@hotmail.com",
+      "authorID" : 17337479,
+      "code": 2,
+      "parentCode": null,
+      "content": "another test comment",
+      "timestamp": "1442479587457",
+      "date": "17-Sep-2015 18:46",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "rkim11@hotmail.com",
+      "authorID" : 17337479,
+      "code": 3,
+      "parentCode": null,
+      "content": "Like the other design, we are sticking with conventional landing page layouts to reduce hindrance on user experience.",
+      "timestamp": "1442561296556",
+      "date": "18-Sep-2015 17:28",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "rkim11@hotmail.com",
+      "authorID" : 17337479,
+      "code": 4,
+      "parentCode": null,
+      "content": "We have chosen a minimal colour scheme for both designs: mostly white and red. Too many colours that do not go well together can leave a negative impression on the users, especially on a landing page.",
+      "timestamp": "1442561418443",
+      "date": "18-Sep-2015 17:30",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}

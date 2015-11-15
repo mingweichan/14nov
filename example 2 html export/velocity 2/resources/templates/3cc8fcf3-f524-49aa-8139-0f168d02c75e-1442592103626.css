@@ -1,0 +1,18 @@
+#t-3cc8fcf3-f524-49aa-8139-0f168d02c75e > #backgroundBox {
+  background-color: #EBEBE8;
+  background-repeat: repeat-x;
+  background-position: top left;
+  background-attachment: scroll;
+  background-image: url('../../images/aa198b9d-13ed-478d-adfa-493b5ce66d3a.png');
+  position: absolute;
+}
+#t-3cc8fcf3-f524-49aa-8139-0f168d02c75e > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#t-3cc8fcf3-f524-49aa-8139-0f168d02c75e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

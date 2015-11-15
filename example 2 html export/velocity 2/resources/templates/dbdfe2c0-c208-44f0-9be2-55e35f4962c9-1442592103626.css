@@ -1,0 +1,20 @@
+#t-dbdfe2c0-c208-44f0-9be2-55e35f4962c9 > #backgroundBox {
+  background-color: #EBEBE8;
+  background-repeat: repeat-x;
+  background-position: top left;
+  background-attachment: scroll;
+  background-image: url('../../images/2a5a2063-ad51-4ec3-882b-12955aa12eac.png');
+  position: absolute;
+}
+#t-dbdfe2c0-c208-44f0-9be2-55e35f4962c9 > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  width: 800px;
+  min-width: 800px;
+  min-height: 600px;
+}
+#t-dbdfe2c0-c208-44f0-9be2-55e35f4962c9 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
