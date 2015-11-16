@@ -435,8 +435,8 @@ color: black;
 .timeline li {
     list-style: none;
 }
-.text-muted {
-    text-align: left;
+.text-motto {
+    text-align: center;
 }
 .timeline-heading {
     text-align: left;
